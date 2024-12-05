@@ -63,7 +63,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/eltigani-abdallah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 
 
 <a href="https://linkedin.com/in/eltigani-abdallah-a420a9340" target="_blank">
