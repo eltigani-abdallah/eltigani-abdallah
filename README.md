@@ -1,27 +1,67 @@
-![alt text](./github%20banner.png "banner img")
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
-<h3 align="center">Developpeur des jeux vidéos en formation</h3>
+###
 
+<h2 align="center">Eltigani Abdallah, here to help (hopefully)</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltigani-abdallah" alt="eltigani-abdallah" /></a> </p>
+###
 
-<h2 align="center"> Contactez moi: </h3>
-<h3 align="center">- 📫 eltigani.abdallah@laplateforme.io</p>
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/Ro1wF3xsajoAAAAC/menhera-menhera-thumbs-up.gif"  />
+</div>
 
-<h3 align="center"><a href=https://eltigani-abdallah.github.io/Portfolio>Ce que j'ai fait</a></h3>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eltigani-abdallah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=eltigani-abdallah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-<h2 align="center">Langues et outils:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
+<br clear="both">
 
-<h2 align="center"> Des stats </h2>
-<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltigani-abdallah&" alt="eltigani-abdallah" /></p>-->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
+###
 
+<div align="center">
+  <a href="eltigani.abdallah@laplateforme.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eltigani-abdallah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltigani-abdallah&show_icons=true&locale=en" alt="eltigani-abdallah" /></p>
+###
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltigani-abdallah&show_icons=true&locale=en&layout=compact" alt="eltigani-abdallah" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eltigani-abdallah/eltigani-abdallah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eltigani-abdallah/eltigani-abdallah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eltigani-abdallah/eltigani-abdallah/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eltigani-abdallah&label=Profile%20views&color=0e75b6&style=flat" alt="eltigani-abdallah" /> </p>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
